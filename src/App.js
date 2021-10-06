@@ -3,7 +3,8 @@ import { Footer } from "./MyComponents/Footer";
 import { Todos } from "./MyComponents/Todos";
 import React, { useState } from 'react';
 function App() {
-  //delete function 
+  //delete function
+  //testing GIt  
   const onDelete = (todo) => {
     
     console.log ("i am deleted", todo);
